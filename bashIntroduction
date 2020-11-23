@@ -1,0 +1,19 @@
+Command Line Interface
+
+CLI is a text based converstaion with the computer in which we type the commands for 
+
+- viewing, handling, an dmanipulation files on your computer
+- launching software
+- working with devices like printers or networks
+
+CLI prompts the user for a command, the user types it in, and then the computer runs the "sentence" that was typed in. It returns output, too (where appropriate).
+
+CLI/Terminal Emulator/Shell
+
+- Terminal is emulated on the computer
+- Terminal handles the input and output of the while the shell works with the operating system and CPU
+- Interpretation of commands in the terminal is handled by shell
+- bash is a specific shell used by unix based OS (Mac OSX and Linux)
+- "command-line" is roughly the same as shell, it's a style of interaction with the shell
+
+You must have comfort with the command-line in order to be a successful programmer
